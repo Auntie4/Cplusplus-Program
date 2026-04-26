@@ -1,6 +1,6 @@
 # Cplusplus-Program
 # Summarize the project and what problem it was solving.
-To Develop an application that creates two clocks displaying simultaneously and allows for user input with secure and efficient C++ code.
+To develop an application that creates two clocks displaying simultaneously and allows for user input with secure and efficient C++ code.
 # What did you do particularly well?
 I was able to create a main menu for the program that allowed the user to be able to make choices about what they would want to do.
 # Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
